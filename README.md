@@ -1,4 +1,4 @@
-# all-bets-off
+# bet (all-bets-off)
 Strava but for dishwashing.
 
 # how to run
